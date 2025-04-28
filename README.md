@@ -15,7 +15,7 @@
 1. Установить Python 3.x
 2. Скачать скрипт `port_scanner.py`
 3. Запустить в терминале:
-      bash:           python port_scanner.py
+   '''bash:           python port_scanner.py'''
 4.Ввести:
 - Целевой IP-адрес или домен
 - Начальный и конечный порты для сканирования
